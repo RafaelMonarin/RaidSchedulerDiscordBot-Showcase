@@ -36,7 +36,7 @@ The bot has a single command `/raid`, which guides players through creating raid
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 Technologies Used
 
 - [Discord.js](https://discord.js.org/) – Discord API integration  
 - [Node.js](https://nodejs.org/) – Runtime environment  
