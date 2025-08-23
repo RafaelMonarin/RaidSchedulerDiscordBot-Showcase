@@ -1,4 +1,4 @@
-# Destiny 2 Raid Scheduler Discord Bot  
+# Destiny 2 Raid Scheduler - Discord Bot  
 
 A Discord bot designed to easily organize **Destiny 2 raids**.  
 The bot has a single command `/raid`, which guides players through creating raid groups, managing schedules, and sending automatic reminders.  
